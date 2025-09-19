@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FenwaDev
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Frontend web development
+- 👀 I’m a product manager 
+- 🌱 I’m currently taking on web3 as a product manager 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me chiamakaloveth131@gmail.com
 
